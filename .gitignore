@@ -1,0 +1,3 @@
+#Para ignorar archivos y/o Carpetas uso gitignore
+*.png
+*.txt
